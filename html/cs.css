@@ -1,0 +1,21 @@
+body{
+    font-size: 99%;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    margin: 22px;
+}
+
+p{
+    text-align: justify;
+    margin-left: 8px;
+    margin-right: 18px;
+}
+
+nav{
+    background-color: greenyellow;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
