@@ -1,5 +1,6 @@
 body{
     font-size: 99%;
+    background-image: url("kepek/hatter.jpg");
 }
 
 h1{
@@ -18,4 +19,14 @@ nav{
     background-color: greenyellow;
     margin-top: 5px;
     margin-bottom: 5px;
+}
+
+
+table{
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.card_nevek{
+    text-align: center;
 }
