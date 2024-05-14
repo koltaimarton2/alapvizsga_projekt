@@ -1,6 +1,6 @@
 body{
     font-size: 99%;
-    background-image: url("kepek/hatter.jpg");
+    background-image: url("kepek/cs2.jpg");
 }
 
 h1{
@@ -16,7 +16,7 @@ p{
 }
 
 nav{
-    background-color: greenyellow;
+    background-color: black;
     margin-top: 5px;
     margin-bottom: 5px;
 }
@@ -30,3 +30,19 @@ table{
 .card_nevek{
     text-align: center;
 }
+
+
+.mapok{
+    max-width: 1300px;
+    margin: auto;
+
+}
+
+
+.verseny{
+    margin: 10px;
+    max-width: 500px;
+}
+
+
+
