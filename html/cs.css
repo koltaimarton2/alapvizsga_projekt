@@ -1,26 +1,19 @@
 body{
     font-size: 99%;
-    background-image: url("kepek/cs2_hatter.jpg");
     overflow-x: hidden;
     color: white;
 }
 
 h1{
     font-weight: bold;
-    text-align: center;
-    margin: 22px;
 }
 
 p{
-    text-align: justify;
-    margin-left: 8px;
     margin-right: 18px;
 }
 
 nav{
-    background-color: black;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-left: 1px;
 }
 
 .szin{
@@ -28,10 +21,7 @@ nav{
 }
 
 table{
-    border: 2px solid white;
-    margin: 10px;
     border-collapse:collapse;
-    text-align: center;
 }
 
 td, th{
@@ -47,7 +37,6 @@ td, th{
 .mapok{
     max-width: 1300px;
     margin: auto;
-
 }
 
 
@@ -57,9 +46,7 @@ td, th{
 }
 
 .versenyek_cardjai{
-    height: 30rem;
-    background-color: black;
-    border: 2px solid white;
+    margin: 1px;
 }
 
 .jatekosok_cardjanak_magassaga{
@@ -82,3 +69,6 @@ td, th{
     font-size: 150%;
 }
 
+.cardok_igazitasa{
+    float: left;
+}
